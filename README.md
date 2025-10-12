@@ -27,7 +27,6 @@ I build full-stack apps (React/Next.js/Node), work with ML (TensorFlow/Scikit-le
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" alt="tailwindcss logo" />
 </div>
 
 <div align="left">

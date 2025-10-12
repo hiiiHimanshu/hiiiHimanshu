@@ -3,20 +3,15 @@
 
   <!-- Typing Banner -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=42&duration=3800&pause=600&color=50FA7B&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=120&lines=Hey%2C+I'm+Himanshu+Gupta;Full-Stack+Developer+%7C+ML+Engineer+%7C+CSE+@+SRM"
+    src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=700&size=42&duration=3800&pause=600&color=50FA7B&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=120&lines=Hey%2C+I'm+Himanshu+Gupta;Full-Stack+Developer+%7C+ML+Engineer+%7C+Final+Year+CSE+%40+SRM"
     width="90%"
     alt="Typing intro banner"
   />
 
+  <!-- Creator tagline -->
   <br />
-  <pre align="left" style="font-size:16px">
-  🚀 Full-stack: React • Next.js • Node.js • Express
-  🧠 ML/AI: TensorFlow • scikit-learn • OpenCV
-  🗄️ Data: MongoDB • MySQL • GraphQL
-  🛠️ I build: AI-driven health tools, fire/human detection,
-      restaurant recommenders, payment/escrow platforms,
-      web traffic analyzers, and more.
-  </pre>
+  <i>bugs before coffee, fixes after ☕🐞 — building things that (usually) work on the second run</i>
+  <br /><br />
 
   <!-- Primary Links (ONLY these three) -->
   <div align="center">
@@ -39,9 +34,9 @@
 ---
 
 <!-- ====== QUICK ABOUT ====== -->
-<h3 align="left">Hi 👋! My name is Himanshu Gupta and I'm a 3rd-year CSE student from SRM University (India)</h3>
+<h3 align="left">Hi 👋! My name is Himanshu Gupta and I'm a final-year CSE student from SRM University (India)</h3>
 
-I build full-stack apps (React/Next.js/Node), work with ML (TensorFlow/Scikit-learn/OpenCV), and love shipping clean, production-ready projects — from AI-driven health tools to fire/human detection, restaurant recommenders, payment/escrow platforms, and web traffic analyzers.
+<!-- keeping this minimal by design—repos speak louder than words -->
 
 ---
 
@@ -110,25 +105,8 @@ I build full-stack apps (React/Next.js/Node), work with ML (TensorFlow/Scikit-le
 
 ---
 
-<!-- ====== PINNED / FEATURED (optional quick links) ====== -->
-<!-- Replace with your own repos later -->
-<details>
-  <summary><b>✨ Featured Projects (click to expand)</b></summary>
 
-  - 🔥 **Fire/Human Detection (CV + DL)** — Real-time detection pipeline with OpenCV + TensorFlow.
-  - 🩺 **AI-Driven Health Symptom Checker** — Chat + triage with ML-based insights.
-  - 🍽️ **Restaurant Recommendation (MERN)** — Filters, context, and personalized picks.
-  - 💸 **Payment/Escrow Platform** — Secure wallet, mutual release, and retry logic.
-  - 📊 **Web Traffic Analyzer** — Custom tracking + dashboards (Next.js + DB).
 
-</details>
-
----
-
-<!-- ====== SNAKE ====== -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/hiiiHimanshu/hiiiHimanshu/output/snake.svg" alt="Snake animation" />
-</div>
 
 
 

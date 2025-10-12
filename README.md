@@ -84,7 +84,6 @@ I build full-stack apps (React/Next.js/Node), work with ML (TensorFlow/Scikit-le
 
 <br clear="both" />
 
-<!-- Snake contribution graph -->
-<img src="https://raw.githubusercontent.com/hiiiHimanshu/hiiiHimanshu/output/snake.svg" alt="Snake animation" />
+
 
 
